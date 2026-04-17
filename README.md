@@ -1,6 +1,7 @@
 # HR-Data-Analytics-Visualization
 
 🌟 **Overview**
+
 This project began with a simple question: What can HR data reveal about the people who make an organization run?  
 Using a Snowflake‑modeled dataset containing employee demographics, satisfaction levels, and performance reviews, I built an interactive Power BI dashboard that transforms raw HR records into a clear narrative about workforce composition and employee experience.
 
